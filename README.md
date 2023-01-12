@@ -42,7 +42,7 @@ src="https://img.shields.io/github/followers/ShahinMohammad-insaneCoder?logo=git
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-[![Check out ShahinMohammad-insaneCoder's profile on stardev.io](https://stardev.io/developers/ShahinMohammad-insaneCoder/badge/languages/global.svg)](https://stardev.io/developers/ShahinMohammad-insaneCoder)
+<a href="https://stardev.io/developers/ShahinMohammad-insaneCoder"><img alt="Check out ShahinMohammad-insaneCoder's profile on stardev.io" src="https://stardev.io/developers/ShahinMohammad-insaneCoder/badge/languages/locality.svg" /></a>
 
 [![](https://visitcount.itsvg.in/api?id=ShahinMohammad-insaneCoder&icon=0&color=10)](https://visitcount.itsvg.in)
 
