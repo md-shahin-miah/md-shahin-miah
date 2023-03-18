@@ -43,8 +43,12 @@ src="https://img.shields.io/github/followers/ShahinMohammad-insaneCoder?logo=git
 
 <a href="https://stardev.io/developers/ShahinMohammad-insaneCoder"><img alt="Check out ShahinMohammad-insaneCoder's profile on stardev.io" src="https://stardev.io/developers/ShahinMohammad-insaneCoder/badge/languages/country.svg" /></a>
 
+<a href="https://stardev.io/developers/ShahinMohammad-insaneCoder"><img alt="Check out ShahinMohammad-insaneCoder's profile on stardev.io" src="https://stardev.io/developers/ShahinMohammad-insaneCoder/badge/languages/locality.svg" /></a>
+
 [![](https://visitcount.itsvg.in/api?id=ShahinMohammad-insaneCoder&icon=0&color=10)](https://visitcount.itsvg.in)
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
+
 
 
