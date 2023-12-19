@@ -9,8 +9,8 @@ A highly dedicated and proactive professional with 3+ years of experience in Mob
 * 🌍  I'm based in Sylhet, Bangladesh
 * ✉️  You can contact me at [Shahintahsan225@gmail.com](mailto:Shahintahsan225@gmail.com)
 
-<a href="https://www.github.com/ShahinMohammad-insaneCoder" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ShahinMohammad-insaneCoder?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/Breadcrumbsmd-shahin-miah" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Breadcrumbsmd-shahin-miah?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 
 # 💻 Tech Stack:
@@ -20,32 +20,32 @@ src="https://img.shields.io/github/followers/ShahinMohammad-insaneCoder?logo=git
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/ShahinMohammad-insaneCoder" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mohammad-shahin-0181431a4" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/13927880/shahin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/Breadcrumbsmd-shahin-miah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mohammad-shahin-0181431a4" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/13927880/shahin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ShahinMohammad-insaneCoder"><img src="https://github-readme-stats.vercel.app/api?username=ShahinMohammad-insaneCoder&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ShahinMohammad-insaneCoder's GitHub stats" /></a>
+<a href="http://www.github.com/Breadcrumbsmd-shahin-miah"><img src="https://github-readme-stats.vercel.app/api?username=Breadcrumbsmd-shahin-miah&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Breadcrumbsmd-shahin-miah's GitHub stats" /></a>
 
-<a href="http://www.github.com/ShahinMohammad-insaneCoder"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahinMohammad-insaneCoder&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Breadcrumbsmd-shahin-miah"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Breadcrumbsmd-shahin-miah&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/ShahinMohammad-insaneCoder"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ShahinMohammad-insaneCoder&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Breadcrumbsmd-shahin-miah"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Breadcrumbsmd-shahin-miah&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/ShahinMohammad-insaneCoder" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahinMohammad-insaneCoder&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Breadcrumbsmd-shahin-miah" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breadcrumbsmd-shahin-miah&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ShahinMohammad-insaneCoder&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Breadcrumbsmd-shahin-miah&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<a href="https://stardev.io/developers/ShahinMohammad-insaneCoder"><img alt="Check out ShahinMohammad-insaneCoder's profile on stardev.io" src="https://stardev.io/developers/ShahinMohammad-insaneCoder/badge/languages/country.svg" /></a>
+<a href="https://stardev.io/developers/Breadcrumbsmd-shahin-miah"><img alt="Check out Breadcrumbsmd-shahin-miah's profile on stardev.io" src="https://stardev.io/developers/Breadcrumbsmd-shahin-miah/badge/languages/country.svg" /></a>
 
-<a href="https://stardev.io/developers/ShahinMohammad-insaneCoder"><img alt="Check out ShahinMohammad-insaneCoder's profile on stardev.io" src="https://stardev.io/developers/ShahinMohammad-insaneCoder/badge/languages/locality.svg" /></a>
+<a href="https://stardev.io/developers/Breadcrumbsmd-shahin-miah"><img alt="Check out Breadcrumbsmd-shahin-miah's profile on stardev.io" src="https://stardev.io/developers/Breadcrumbsmd-shahin-miah/badge/languages/locality.svg" /></a>
 
-[![](https://visitcount.itsvg.in/api?id=ShahinMohammad-insaneCoder&icon=0&color=10)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Breadcrumbsmd-shahin-miah&icon=0&color=10)](https://visitcount.itsvg.in)
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
