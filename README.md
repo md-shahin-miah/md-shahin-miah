@@ -21,7 +21,7 @@ A highly dedicated and proactive professional with 4+ years of experience in Mob
 
 ## 👥 Connect With Me
 <p>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammad-shahin-0181431a4/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://linkedin.com/in/mohammad-shahin-0181431a4/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
 ## 🌟 Github Badges
