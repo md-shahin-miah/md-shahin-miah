@@ -40,8 +40,8 @@ A highly dedicated and proactive professional with 5+ years of experience in Mob
 
 ## 📊 GitHub Stats
 <p align="left">
-<img src="github-readme-stats.vercel.app[YOUR_USERNAME]&show_icons=true&theme=radical" height="150" />
-<img src="github-readme-streak-stats.herokuapp.com[YOUR_USERNAME]&theme=radical" height="150" />
+<img src="github-readme-stats.vercel.app[md-shahin-miah]&show_icons=true&theme=radical" height="150" />
+<img src="github-readme-streak-stats.herokuapp.com[md-shahin-miah]&theme=radical" height="150" />
 </p>
 
 
