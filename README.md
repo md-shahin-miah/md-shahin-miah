@@ -1,6 +1,6 @@
 # Hi there 👋, My name is Shahin
 
-A highly dedicated and proactive professional with 4+ years of experience in Mobile Application development
+A highly dedicated and proactive professional with 5+ years of experience in Mobile Application development
 
 ## 💫 Liitle Bit More About Me
 <p>📫 How to reach me? Shahintahsan225@gmail.com</p>
@@ -38,15 +38,12 @@ A highly dedicated and proactive professional with 4+ years of experience in Mob
 <p><img src="https://github-profile-trophy.vercel.app/?username=md-shahin-miah">
 </p>
 
-## 📊 Github Status
+## 📊 GitHub Stats
+<p align="left">
+<img src="github-readme-stats.vercel.app[YOUR_USERNAME]&show_icons=true&theme=radical" height="150" />
+<img src="github-readme-streak-stats.herokuapp.com[YOUR_USERNAME]&theme=radical" height="150" />
+</p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=md-shahin-miah&show_icons=true"><p>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-shahin-miah&layout=compact"><p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=md-shahin-miah"><p>
-
-<p><img src="https://visitcount.itsvg.in/api?id=md-shahin-miah&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
 
 ## Country Ranking on StarDev
 <h3 align="left"></h3>
