@@ -38,21 +38,7 @@ A highly dedicated and proactive professional with 5+ years of experience in Mob
 <p><img src="https://github-profile-trophy.vercel.app/?username=md-shahin-miah">
 </p>
 
-### 📊 GitHub Statistics
-<p align="center">
-  <img src="github-readme-stats.vercel.app" alt="md-shahin-miah GitHub stats" />
-</p>
 
-### 📈 Contribution Streak & Top Languages
-<p align="center">
-  <img src="github-readme-streak-stats.herokuapp.com" alt="md-shahin-miah streak" />
-  <img src="github-readme-stats.vercel.app" alt="md-shahin-miah top languages" />
-</p>
-
-### 🗓️ Activity Graph
-<p align="center">
-  <img src="github-readme-activity-graph.vercel.app" width="100%" />
-</p>
 
 ## Country Ranking on StarDev
 <h3 align="left"></h3>
