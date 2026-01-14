@@ -49,3 +49,4 @@ A highly dedicated and proactive professional with 5+ years of experience in Mob
 <h3 align="left"></h3>
   
 [![Check out md-shahin-miah's profile on stardev.io](https://stardev.io/developers/md-shahin-miah/badge/languages/locality.svg)](https://stardev.io/developers/md-shahin-miah)
+https://stardev.io/developers/md-shahin-miah
