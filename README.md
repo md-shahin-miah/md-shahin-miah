@@ -39,6 +39,13 @@ A highly dedicated and proactive professional with 5+ years of experience in Mob
 </p>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-shahin-miah&show_icons=true&locale=en&layout=compact" alt="md-shahin-miah" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-shahin-miah&show_icons=true&locale=en" alt="md-shahin-miah" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-shahin-miah&" alt="md-shahin-miah" /></p>
+
+
 
 ## Country Ranking on StarDev
 <h3 align="left"></h3>
