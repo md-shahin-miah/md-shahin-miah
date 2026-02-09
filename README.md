@@ -46,14 +46,4 @@ A highly dedicated and proactive professional with 5+ years of experience in Mob
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-shahin-miah&" alt="md-shahin-miah" /></p>
 
 
-
-## Country Ranking on StarDev
-<h3 align="left"></h3>
-
-[![Check out md-shahin-miah's profile on stardev.io](https://stardev.io/developers/md-shahin-miah/badge/languages/country.svg)](https://stardev.io/developers/md-shahin-miah)
-
-## Local (Sylhet) Ranking on StarDev
-<h3 align="left"></h3>
-  
-[![Check out md-shahin-miah's profile on stardev.io](https://stardev.io/developers/md-shahin-miah/badge/languages/locality.svg)](https://stardev.io/developers/md-shahin-miah)
-https://stardev.io/developers/md-shahin-miah
+[![Check out md-shahin-miah's profile on stardev.io](https://stardev.io/developers/md-shahin-miah/badge/languages/global.svg)](https://stardev.io/developers/md-shahin-miah)
