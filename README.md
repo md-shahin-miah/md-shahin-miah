@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=MD%20SHAHIN%20MIAH&fontSize=52&fontColor=00D4FF&fontAlignY=38&desc=Mobile%20Application%20Developer&descAlignY=58&descColor=A8D8EA&animation=fadeIn" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=650&lines=📱+Android+%26+Flutter+Developer;🚀+4%2B+Years+of+Mobile+Development;🏗️+MVP+%7C+MVC+%7C+MVVM+Architect;⚡+POS+%7C+Kiosk+%7C+Payment+Systems;🌍+Building+Scalable+Mobile+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=650&lines=📱+Android+%26+Flutter+Developer;🚀+5%2B+Years+of+Mobile+Development;🏗️+MVP+%7C+MVC+%7C+MVVM+Architect;⚡+POS+%7C+Kiosk+%7C+Payment+Systems;🌍+Building+Scalable+Mobile+Solutions" alt="Typing SVG" />
 
 <br/>
 
@@ -31,7 +31,7 @@ data class Developer(
     val name: String        = "MD Shahin Miah",
     val role: String        = "Mobile Application Developer",
     val location: String    = "Shibganj, Sylhet, Bangladesh 🇧🇩",
-    val experience: String  = "4+ Years",
+    val experience: String  = "5+ Years",
     val languages: List<String> = listOf("Bengali (Native)", "English"),
     val currentJob: String  = "Valt (Yotech) — Feb 2022 → Present",
     val passions: List<String> = listOf(
