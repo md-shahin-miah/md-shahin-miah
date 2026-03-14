@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=MD%20SHAHIN%20MIAH&fontSize=52&fontColor=00D4FF&fontAlignY=38&desc=Mobile%20Application%20Developer&descAlignY=58&descColor=A8D8EA&animation=fadeIn" />
 
 <!-- Typing Animation -->
