@@ -226,6 +226,9 @@ data class Developer(
 
 </div>
 
+
+<a href="https://stardev.io/developers/md-shahin-miah"><img alt="Check out md-shahin-miah&apos;s profile on stardev.io" src="https://stardev.io/developers/md-shahin-miah/badge/languages/locality.svg" /></a>
+
 ---
 <!-- Animated Quote -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="90%" />
